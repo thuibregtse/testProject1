@@ -5,6 +5,8 @@
 #define USE_CHECKSUM       1   ///< Set to 1 to enable checksums in messages, 0 to disable
 #endif
 
+
+
 /**
 * \file
 * \brief Main header file for the MD_YX5300 library
